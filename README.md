@@ -16,3 +16,7 @@ Notes
 
 
 Please note: There is no wrong or right method of approach for this task.  It is a test purely used to determine your coding technique and style.
+
+# Instructions
+
+Run composer dump-autoload, and run Public/index.php on the command line or in browser.
